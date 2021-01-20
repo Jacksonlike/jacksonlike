@@ -17,3 +17,5 @@ jobs:
       - uses: Jacksonlike/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
+          SHOW_TITLE: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
