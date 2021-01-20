@@ -11,12 +11,12 @@ I think these code repositories have a little fun...
     <tr>
       <td>
         <a href="https://github.com/Jacksonlike/source-code-redux">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jacksonlike&repo=source-code-redux&theme=chartreuse-dark" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jacksonlike&repo=source-code-redux&theme=buefy" />
         </a>
       </td>
        <td>
         <a href="https://github.com/Jacksonlike/translate-commandline">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jacksonlike&repo=translate-commandline&theme=chartreuse-dark" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jacksonlike&repo=translate-commandline&theme=buefy" />
         </a>
       </td>
     </tr>
