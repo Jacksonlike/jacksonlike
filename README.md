@@ -42,10 +42,12 @@ I think these code repositories have a little fun...
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   13 hrs 59 mins  ██████████████▒░░░░░░░░░░   57.66 % 
-Markdown     4 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Python       3 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-CSV          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Week: 12 January, 2021 - 19 January, 2021
+
+JavaScript   13 hrs 59 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.66 % 
+Markdown     4 hrs 27 mins   ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.37 % 
+Python       3 hrs 59 mins   ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.45 % 
+JSON         32 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.22 % 
+CSV          28 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.93 % 
 ```
 <!--END_SECTION:waka-->
