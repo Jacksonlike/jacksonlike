@@ -29,10 +29,10 @@ I think these code repositories have a little fun...
   <tbody>
     <tr>
       <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jacksonlike&theme=chartreuse-dark&show_icons=true" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jacksonlike&theme=buefy&show_icons=true" />
       </td>
        <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksonlike&theme=chartreuse-dark" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacksonlike&theme=buefy&layout=compact" />
       </td>
     </tr>
   </tbody>
