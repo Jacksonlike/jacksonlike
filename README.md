@@ -42,6 +42,10 @@ I think these code repositories have a little fun...
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 17 May, 2021 - 24 May, 2021
+
+Vue.js   30 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   65.72 % 
+JSON     10 mins         ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.67 % 
+CSS      5 mins          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.27 % 
 ```
 <!--END_SECTION:waka-->
